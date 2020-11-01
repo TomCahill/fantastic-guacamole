@@ -58,6 +58,9 @@ public class EnemyController : MonoBehaviour
         if (controller != null) {
             controller.ChangeHealth(-1);
         }
+
+        direction = -direction;
+        timer = changeTime;
     }
 
 }
