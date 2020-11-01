@@ -8,8 +8,8 @@ My progress following the Unity tutorial: https://learn.unity.com/project/ruby-s
 - [x] Decorating the World
 - [x] World Interactions - Blocking Movement
 - [x] World Interactions - Collectibles
-- [ ] World Interactions - Damage Zones and Enemies
-- [ ] Sprite Animation
+- [x] World Interactions - Damage Zones and Enemies
+- [x] Sprite Animation
 - [ ] World Interactions - Projectile
 - [ ] Camera - Cinemachine
 - [ ] Visual Styling - Particles
