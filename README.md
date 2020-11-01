@@ -6,7 +6,7 @@ My progress following the Unity tutorial: https://learn.unity.com/project/ruby-s
 - [x] Character Controller and Keyboard Input
 - [x] World Design - Tilemaps
 - [x] Decorating the World
-- [ ] World Interactions - Blocking Movement
+- [x] World Interactions - Blocking Movement
 - [ ] World Interactions - Collectibles
 - [ ] World Interactions - Damage Zones and Enemies
 - [ ] Sprite Animation
