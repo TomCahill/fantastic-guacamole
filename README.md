@@ -7,7 +7,7 @@ My progress following the Unity tutorial: https://learn.unity.com/project/ruby-s
 - [x] World Design - Tilemaps
 - [x] Decorating the World
 - [x] World Interactions - Blocking Movement
-- [ ] World Interactions - Collectibles
+- [x] World Interactions - Collectibles
 - [ ] World Interactions - Damage Zones and Enemies
 - [ ] Sprite Animation
 - [ ] World Interactions - Projectile
